@@ -1,0 +1,10 @@
+int admin_authentication();
+int user_authentication();
+void addFlight();
+void cancel_flight();
+void generateReport();
+void search_flight_flightno();
+void search_flight_destination();
+void sort_flights_by_price();
+void sort_flights_by_time();
+void add_user();

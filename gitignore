@@ -1,0 +1,15 @@
+
+# Ignore generated data files
+flights.txt
+users.txt
+
+# Ignore compiled files
+*.exe
+*.out
+*.o
+
+# Ignore backup files
+*~
+
+# macOS system file
+.DS_Store
